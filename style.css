@@ -10,6 +10,7 @@
 }
 
 .flex-child {
+  text-align: center;
   width: calc(25% - 4px);
   background-color: red;
   border: 2px solid white;
@@ -57,4 +58,8 @@
 
 .Tokyo {
   background: green;
+}
+
+.p {
+  color: darkblue;
 }
